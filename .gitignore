@@ -1,0 +1,8 @@
+# Nb project
+nbproject/private/
+build/
+dist/
+
+# Class Files
+*.class
+

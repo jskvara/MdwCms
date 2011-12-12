@@ -1,0 +1,48 @@
+body {
+	font-family: "Helvetica CE", "Arial CE", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+}
+
+a {
+}
+
+a:visited {
+}
+
+a:hover {
+}
+
+a img {
+	border: none;
+}
+
+.center {
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+	height: 1px;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+
+/* sidebar */
+#sidebar {
+	font-size: 110%;
+}
+
+#content p {
+	line-height: 130%;
+	text-indent: 1.5em;
+	margin-bottom: 1ex;
+	text-align: justify;
+}
+
+/* footer */
+#footer {
+	text-align: center;
+}
